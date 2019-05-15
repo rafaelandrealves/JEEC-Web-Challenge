@@ -1,4 +1,4 @@
-# prep
+# JEEC Web Challenge
 
 ## Project setup
 ```
